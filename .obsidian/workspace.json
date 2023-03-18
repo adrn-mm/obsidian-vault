@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "6fc6410f6ad03471",
+    "type": "split",
+    "children": [
+      {
+        "id": "5447d46ea019450c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ef5a9c9c1e7b3cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Simple Hacks.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b59cd5bb2c1f355",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0b9c96539adcb46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "266ba9f6953148d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "36ea85397623e50c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "762a4d4e11219637",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fleeting Notes/Simple Hacks.md"
+              }
+            }
+          },
+          {
+            "id": "3304b74dd0b03980",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cHM6Ly9jaGF0Lm9wZW5haS5jb20vY2hhdA==",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "right": {
+    "id": "ae98cf3657a7002d",
+    "type": "split",
+    "children": [
+      {
+        "id": "be53593a44a0da49",
+        "type": "tabs",
+        "dimension": 35.863095238095234,
+        "children": [
+          {
+            "id": "1e161ab1271d0d3a",
+            "type": "leaf",
+            "state": {
+              "type": "aHR0cHM6Ly93d3cubG9maS5jYWZlLw==",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f89d9c2fd6e9473",
+            "type": "leaf",
+            "state": {
+              "type": "online.tokuhirom.obsidian-pomodoro-plugin",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "27666f7f5a336a3a",
+        "type": "tabs",
+        "dimension": 64.13690476190476,
+        "children": [
+          {
+            "id": "ae52c136256f5612",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c2fd43021117e2e",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": true,
+      "random-note:Open random note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-grammarly-plugin:Enable Grammarly": false,
+      "open-gate:lofi.cafe - lofi music 🎧": false,
+      "open-gate:ChatGPT": false,
+      "open-gate:Google Translate": false
+    }
+  },
+  "active": "9ef5a9c9c1e7b3cb",
+  "lastOpenFiles": [
+    "Presentation/Presentation using Obsidian Demo.md",
+    "Fleeting Notes/Simple Hacks.md",
+    "Weekly Notes",
+    "Presentation",
+    "Fleeting Notes/Machine Learning Books to Learn.md",
+    "Fleeting Notes/Learn Quick Latex.md",
+    "Fleeting Notes/Data Engineering Bank BTPN.md",
+    "Fleeting Notes/Data Modelling.md",
+    "Tweet Notes/New Data Viz Library.md",
+    "Literature Notes/Zettelkasten Notes.md",
+    "Literature Notes/Intro to T-SQL.md",
+    "Literature Notes/Google DE Course.md",
+    "Literature Notes/Google Cloud Big Data & Machine Learning Fundamentals.md",
+    "Literature Notes/Financial Math with R.md",
+    "Fleeting Notes/Data Science Project Structure.md",
+    "Literature Notes/Business Acumen.md",
+    "Literature Notes/Atomic Notes.md",
+    "Daily Notes/07 Feb 2023.md",
+    "Daily Notes/14 Mar 2023.md",
+    "Daily Notes/17 Feb 2023.md",
+    "_notion-like-tables/Drawing 2023-03-15 06.22.48.excalidraw.md",
+    "_notion-like-tables/Drawing 2023-03-15 06.22.16.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-09 10.45.07.excalidraw.md",
+    "Excalidraw/graph 2023-02-07 21.16.23.excalidraw.md",
+    "Excalidraw/transaction control concept 2023-02-09 22.00.04.excalidraw.md",
+    "Excalidraw/GCP Product Categories .excalidraw.md",
+    "Excalidraw/GCP Infra.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-08 16.12.29.excalidraw.md",
+    "Attachments/model-complexity-vs-model-overfitting-vs-model-accuracy.png",
+    "Book Notes/Resumes",
+    "Book Notes/Drafts",
+    "Tweet Notes",
+    "Video Notes",
+    "Book Notes",
+    "Permanent Notes",
+    "Literature Notes",
+    "Fleeting Notes",
+    "Attachments/Pasted Image 20230225155518_745.png"
+  ]
+}

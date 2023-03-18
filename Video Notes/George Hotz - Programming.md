@@ -1,0 +1,53 @@
+#Programming
+- this is why functional programming is good for learning mathh [03:42](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=222.99084702098082)
+- computer do not operate like function [03:44](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=224.37280108392335)
+- C is similiar like Assembly[04:05](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=245.6688990152588)
+- OOP revolution[04:58](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=298.15019805912783)
+- Garbage collection and productiviy [05:14](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=314.48714201716615)
+- Component of program: text, bss, stack, heap [07:08](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=428.7782869465942)
+- SE do not write algortihms! [08:45](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=525.3397830400543)
+- Most SE basically translator [09:14](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=554.3403380648499)
+- SE architecture (Model, View, Controller) [11:09](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=669.2914290286102)
+- Almost nothing like we do in school [11:54](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=714.5699199351501)
+- Bootcamps and Comma AI [12:27](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=747.3127070953674)
+- Trash job in SE [14:01](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=841.3842937863769)
+- Impure model (figuring out how to make the function behave how you want/hacking)[16:36](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=996.456995)
+- breaking paradigm vs pattern recognition[19:39](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=1179.4458500190735)
+- High brow SE: understand complex system, modify the systme to add a feature, ship the new system [21:20](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=1280.6839480610352)
+- to good at ML Engineeer: Download paper, implement it, keep doing this until you have skills [22:10](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=1330.6806590038148)
+- SE paradigm/mentality: input -> system -> output [23:29](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=1409.528700900818)
+- What he mean about Funnels? [26:26](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=1586.6234731163484)
+- Right now george mostly talking about breaking down a problem/abstracting things [29:55](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=1795.8306129008179)
+- dynamic programming [35:09](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=2109.7551121773836)
+- There's no such thing wasting time -> George philosophy in life: Dont be in funnels, dont be in skinner boxes, dont be influenced by advertising [38:30](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=2310.8356801392365) 
+- Algorthmic complexity [39:41](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=2381.740806929428)
+- Binary search time complexity [45:43](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=2743.5656700705717)
+- Hacking mostly about binary search by hand [45:58](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=2758.6378879599456)
+- Data science mostly BS lol [48:23](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=2903.150036891281)
+- Object level skill will die out when tools die out, meta skills rules! [48:44](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=2924.4137251296997)
+- learning from nature (W) vs from people (L) [49:13](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=2953.356420973297)
+- Data science as stats (W) VS data scienc as tools in a company X (L) [50:23](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=3023.7121029084474)
+- George knowledge in math mostly in discrete math [51:35](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=3095.3316238264315)
+- You wanna build a knowledge tree: new information fits into the tree, so you can interpolate things to know many things [52:44](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=3164.6895349313354)
+- Richard Hamming [55:12](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=3312.7539209694824)
+- Bezos trick operation mastermind[55:38](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=3338.9710471068115)
+- Post-structuralism [57:00](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=3420.7476539809263)
+- Turing VS Wiggeistein debate [01:02:42](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=3762.6768870457763)
+- no future in programming (singularity shaped by the one who tell the right story) [01:02:59](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=3779.435507902725)
+- Turing's paper [01:03:42](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=3822.8825990591276)
+- Satoshi Nakamoto  and Elon (influential person in 21th century) [01:05:19](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=3919.90076693515)
+- People is boring, nature is interesting [01:08:06](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=4086.0039698703004)
+- Construtivism Mathematics [01:09:25](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=4165.40506784169)
+- What is money: not a terminal goal [01:11:47](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=4307.454490919891)
+- Computer architecture as quantitative approach [01:23:01](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=4981.609676015259)
+- two hard things in computer science and  caching [01:25:01](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=5101.610521835968)
+- Got bored, I stop here [01:36:06](https://www.youtube.com/watch?v=N2bXEUSAiTI&t=437s#t=5766.138554897003)
+
+# My personal opinion
+- 20% the first principle thinking 10% computer science 70% western philosophy crap.
+- Basically software engineer in a company is a business translator, and that can be a crappy job. A good SE should spent more time abstracting things (first principle) and  breaking paradigm (solve groudbreaking problems).
+- Focus more on concepts rather on people
+- How to be a good ML engineer: 
+	- read paper
+	- implement it
+	- repeat until you get skills

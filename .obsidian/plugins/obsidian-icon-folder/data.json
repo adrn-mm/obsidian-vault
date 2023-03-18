@@ -1,0 +1,37 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiPencilFill",
+      "SiTwitter",
+      "FarCopy",
+      "RiAlignJustify",
+      "RiFileListFill"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "Book Notes": "RiBookOpenFill",
+  "Daily Notes": "RiPencilLine",
+  "Excalidraw": "RiMindMap",
+  "Fleeting Notes": "RiListCheck",
+  "Literature Notes": "RiAlignJustify",
+  "Permanent Notes": "RiFileListLine",
+  "Templates": "FarCopy",
+  "Tweet Notes": "SiTwitter",
+  "Video Notes": "SiYoutube",
+  "_notion-like-tables": "SiNotion",
+  "Presentation": "SiMicrosoftpowerpoint",
+  "Attachments": "RiAttachment2",
+  "Weekly Notes": "RiPencilFill"
+}

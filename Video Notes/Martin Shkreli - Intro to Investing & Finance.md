@@ -1,0 +1,20 @@
+#Finance
+- OPM (other peoples money: banks, hedge funds) and FO (family office) [04:54](https://www.youtube.com/watch?v=VI_riscmviI&list=PLJsVF3gZDcuTxcdH5FmQRTd6MiJ29X_OQ#t=294.7274269771118)
+- Joe Lewis, Bruce Kouner (zero to hero) [07:23](https://www.youtube.com/watch?v=VI_riscmviI&list=PLJsVF3gZDcuTxcdH5FmQRTd6MiJ29X_OQ#t=443.6581158626709)
+- maximum annual return 10% [09:22](https://www.youtube.com/watch?v=VI_riscmviI&list=PLJsVF3gZDcuTxcdH5FmQRTd6MiJ29X_OQ#t=562.7052999485015) 
+- being great investor first, and then talk about money[10:50](https://www.youtube.com/watch?v=VI_riscmviI&list=PLJsVF3gZDcuTxcdH5FmQRTd6MiJ29X_OQ#t=650.786799917984)
+- Stop here, got bored. [15:12](https://www.youtube.com/watch?v=VI_riscmviI&list=PLJsVF3gZDcuTxcdH5FmQRTd6MiJ29X_OQ#t=912.1614939046326)
+- I'm starting again at [31:30](https://www.youtube.com/watch?v=VI_riscmviI&t=18s#t=1890.846376973297)
+- textbook suggestion:
+	- bready & myers corporate finance textbook [31:46](https://www.youtube.com/watch?v=VI_riscmviI&t=18s#t=1906.4598811811982)
+	- Damodoran works
+	- Phil Fisher - Common stocks and uncommon profits 
+	- Seth Klarman - Margin of Safety
+- Asset Classes: asset is something of value. [39:29](https://www.youtube.com/watch?v=VI_riscmviI&t=18s#t=2369.7915410629425)
+	- Stocks
+	- don't focus only in stocks -> bonds
+	- Equity
+		- Shares
+		- Public and Private Equity
+	- you cant be a part time investor and do well [43:38](https://www.youtube.com/watch?v=VI_riscmviI&t=18s#t=2618.357847944687)
+	- got bored stop here [44:30](https://www.youtube.com/watch?v=VI_riscmviI&t=18s#t=2670.3809432098083)

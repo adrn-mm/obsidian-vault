@@ -1,0 +1,616 @@
+{
+  "strategy": "default",
+  "cedictPath": "./cedict_ts.u8",
+  "matchStrategy": "prefix",
+  "fuzzyMatch": true,
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": false,
+  "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
+  "showMatchStrategy": false,
+  "showComplementAutomatically": false,
+  "showIndexingStatus": false,
+  "descriptionOnSuggestion": "None",
+  "selectSuggestionKeys": "Tab",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": "large_en.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "coincide": {
+      "coincide": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676121900844
+        }
+      }
+    },
+    "coincidences": {
+      "coincidences": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676121913274
+        }
+      }
+    },
+    "becau": {
+      "becau": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676122048248
+        }
+      }
+    },
+    "because": {
+      "because": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676122049508
+        }
+      }
+    },
+    "what": {
+      "what": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676122063559
+        }
+      }
+    },
+    "learn": {
+      "learn": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676127946838
+        }
+      }
+    },
+    "about": {
+      "about": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676127951510
+        }
+      }
+    },
+    "struggle": {
+      "struggle": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676128166456
+        }
+      }
+    },
+    "honest": {
+      "honest": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676128201539
+        }
+      }
+    },
+    "with": {
+      "with": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676128204288
+        }
+      }
+    },
+    "you": {
+      "you": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676128208637
+        }
+      }
+    },
+    "coincidental": {
+      "coincidental": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676128223003
+        }
+      }
+    },
+    "heller": {
+      "heller": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676131786677
+        }
+      }
+    },
+    "how": {
+      "how": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676131789279
+        }
+      }
+    },
+    "\\rightarrow": {
+      "\\rightarrow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676256535250
+        }
+      }
+    },
+    "descriptive": {
+      "descriptive": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676256583909
+        }
+      }
+    },
+    "statistic": {
+      "statistic": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676256587502
+        }
+      }
+    },
+    "Stakeholder": {
+      "Stakeholder": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676256904208
+        }
+      }
+    },
+    "aggregate": {
+      "aggregate": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1676259910185
+        }
+      }
+    },
+    "irregularity": {
+      "irregularity": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1676260147682
+        }
+      }
+    },
+    "cannot": {
+      "cannot": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677211920636
+        }
+      }
+    },
+    "Conceptually": {
+      "Conceptually": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1677339009408
+        }
+      }
+    },
+    "Sequentially": {
+      "Sequentially": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1677339065128
+        }
+      }
+    },
+    "thinking": {
+      "thinking": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1677339374706
+        }
+      }
+    },
+    "sequentially": {
+      "sequentially": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677339025088
+        }
+      }
+    },
+    "access": {
+      "access": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677339327548
+        }
+      }
+    },
+    "sequntially": {
+      "sequntially": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677339906133
+        }
+      }
+    },
+    "technique": {
+      "technique": {
+        "customDictionary": {
+          "count": 6,
+          "lastUpdated": 1677454477817
+        }
+      }
+    },
+    "Re-telling": {
+      "Re-telling": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677341297242
+        }
+      }
+    },
+    "Zettelkasten": {
+      "Zettelkasten": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1677367136992
+        }
+      }
+    },
+    "accounting": {
+      "accounting": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677343913360
+        }
+      }
+    },
+    "interpretation": {
+      "interpretation": {
+        "customDictionary": {
+          "count": 4,
+          "lastUpdated": 1677367584919
+        }
+      }
+    },
+    "thoughts": {
+      "thoughts": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1677367086163
+        }
+      }
+    },
+    "permanent": {
+      "permanent": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677367054419
+        }
+      }
+    },
+    "already": {
+      "already": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1677367590099
+        }
+      }
+    },
+    "trigger": {
+      "trigger": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677367217354
+        }
+      }
+    },
+    "triggered": {
+      "triggered": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677367218758
+        }
+      }
+    },
+    "Ideally": {
+      "Ideally": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677367252512
+        }
+      }
+    },
+    "fleeting": {
+      "fleeting": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677367267565
+        }
+      }
+    },
+    "necessary": {
+      "necessary": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677377946292
+        }
+      }
+    },
+    "instep": {
+      "instep": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677377959018
+        }
+      }
+    },
+    "instead": {
+      "instead": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677377960258
+        }
+      }
+    },
+    "meanwhile": {
+      "meanwhile": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677378367351
+        }
+      }
+    },
+    "represent": {
+      "represent": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677378412837
+        }
+      }
+    },
+    "independent": {
+      "independent": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677379613256
+        }
+      }
+    },
+    "generalizable": {
+      "generalizable": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677386553271
+        }
+      }
+    },
+    "Cross-validation": {
+      "Cross-validation": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677454241500
+        }
+      }
+    },
+    "Physcal": {
+      "Physcal": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677407228500
+        }
+      }
+    },
+    "Physical": {
+      "Physical": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677407231269
+        }
+      }
+    },
+    "Data Modelling": {
+      "Data Modelling": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677407459742
+        }
+      }
+    },
+    "Technique": {
+      "Technique": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677407468527
+        }
+      }
+    },
+    "Hierarchical": {
+      "Hierarchical": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677407480758
+        }
+      }
+    },
+    "training": {
+      "training": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1677454838527
+        }
+      }
+    },
+    "cross-validation": {
+      "cross-validation": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1677454766477
+        }
+      }
+    },
+    "Stratified": {
+      "Stratified": {
+        "customDictionary": {
+          "count": 6,
+          "lastUpdated": 1677454777189
+        }
+      }
+    },
+    "K-Fold": {
+      "K-Fold": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1677454780617
+        }
+      }
+    },
+    "however": {
+      "however": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677453962391
+        }
+      }
+    },
+    "essential": {
+      "essential": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677454252088
+        }
+      }
+    },
+    "consist": {
+      "consist": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677454655456
+        }
+      }
+    },
+    "breaking": {
+      "breaking": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677471277239
+        }
+      }
+    },
+    "Algorthm": {
+      "Algorthm": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677472076825
+        }
+      }
+    },
+    "quantitative": {
+      "quantitative": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677474662749
+        }
+      }
+    },
+    "approach": {
+      "approach": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677474666314
+        }
+      }
+    },
+    "funds": {
+      "funds": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677475988112
+        }
+      }
+    },
+    "Objective": {
+      "Objective": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677643502520
+        }
+      }
+    },
+    "Syllabus": {
+      "Syllabus": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677644661046
+        }
+      }
+    },
+    "Business": {
+      "Business": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1677644684464
+        }
+      }
+    },
+    "vulnerable": {
+      "vulnerable": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678612881593
+        }
+      }
+    },
+    "annotate": {
+      "annotate": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1678717688157
+        }
+      }
+    }
+  }
+}

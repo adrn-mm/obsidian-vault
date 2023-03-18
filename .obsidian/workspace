@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "6fc6410f6ad03471",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bcfa4451276cb60",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b59cd5bb2c1f355",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0b9c96539adcb46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a77eab84f51a731",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "724bad7a29db4dfb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ae98cf3657a7002d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0202ec60f05ff25e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55b7ab5dd08a98e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2bcfa4451276cb60",
+  "lastOpenFiles": [
+    "osint-tools.md",
+    "my-productivity-tools.md"
+  ]
+}

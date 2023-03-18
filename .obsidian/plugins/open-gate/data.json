@@ -1,0 +1,29 @@
+{
+  "isFirstRun": false,
+  "gates": {
+    "aHR0cHM6Ly93d3cubG9maS5jYWZlLw==": {
+      "id": "aHR0cHM6Ly93d3cubG9maS5jYWZlLw==",
+      "title": "lofi.cafe - lofi music 🎧",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://www.google.com/s2/favicons?domain=www.lofi.cafe&sz=100\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "right",
+      "url": "https://www.lofi.cafe/"
+    },
+    "aHR0cHM6Ly9jaGF0Lm9wZW5haS5jb20vY2hhdA==": {
+      "id": "aHR0cHM6Ly9jaGF0Lm9wZW5haS5jb20vY2hhdA==",
+      "title": "ChatGPT",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://www.google.com/s2/favicons?domain=chat.openai.com&sz=100\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "left",
+      "url": "https://chat.openai.com/chat"
+    },
+    "aHR0cHM6Ly90cmFuc2xhdGUuZ29vZ2xlLmNvbS8=": {
+      "id": "aHR0cHM6Ly90cmFuc2xhdGUuZ29vZ2xlLmNvbS8=",
+      "title": "Google Translate",
+      "icon": "<svg viewBox=\"0 0 100 100\"><image href=\"https://www.google.com/s2/favicons?domain=translate.google.com&sz=100\" height=\"100\" width=\"100\" /></svg>",
+      "hasRibbon": true,
+      "position": "right",
+      "url": "https://translate.google.com/"
+    }
+  }
+}

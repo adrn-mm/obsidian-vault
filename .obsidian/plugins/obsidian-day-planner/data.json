@@ -1,0 +1,40 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": true,
+  "notesToDates": [
+    {
+      "notePath": "Daily Notes/2023-02-09.md",
+      "date": "Thu Feb 09 2023"
+    },
+    {
+      "notePath": "Daily Notes/2023-02-11.md",
+      "date": "Sat Feb 11 2023"
+    },
+    {
+      "notePath": "Daily Notes/2023-02-13.md",
+      "date": "Mon Feb 13 2023"
+    },
+    {
+      "notePath": "Daily Notes/2023-02-26.md",
+      "date": "Sun Feb 26 2023"
+    },
+    {
+      "notePath": "Daily Notes/2023-02-27.md",
+      "date": "Mon Feb 27 2023"
+    },
+    {
+      "notePath": "Daily Notes/28 Feb 2023.md",
+      "date": "Tue Feb 28 2023"
+    },
+    {
+      "notePath": "Daily Notes/14 Mar 2023.md",
+      "date": "Tue Mar 14 2023"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "timelineZoomLevel": 1
+}
